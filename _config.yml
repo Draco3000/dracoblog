@@ -24,7 +24,7 @@ kramdown:
   input: GFM
 #=======
 # theme: minima
-theme: jekyll-theme-slate
+theme: jekyll-theme-architect
 #remote-theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
