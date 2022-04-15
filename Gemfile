@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
-=======
+#<<<<<<< HEAD
+#source 'https://rubygems.org'
+#gem 'github-pages', group: :jekyll_plugins
+#=======
 source "https://rubygems.org"
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -41,5 +41,5 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
->>>>>>> 928fa29ef0ec2ef7fb7d52b449b17c5745012210
+#>>>>>>> 928fa29ef0ec2ef7fb7d52b449b17c5745012210
 gem "webrick", "~> 1.7"

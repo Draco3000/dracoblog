@@ -18,17 +18,17 @@ twitter_username: Taffyer
 github_username:  wild-flame 
 
 # Build settings
-<<<<<<< HEAD
+#<<<<<<< HEAD
 markdown: kramdown
 kramdown:
   input: GFM
-=======
+#=======
 # theme: minima
 theme: jekyll-theme-slate
 #remote-theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
->>>>>>> 928fa29ef0ec2ef7fb7d52b449b17c5745012210
+#>>>>>>> 928fa29ef0ec2ef7fb7d52b449b17c5745012210
 
 # Third-party services
 # just leave someone empty to disable it
