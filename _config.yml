@@ -21,6 +21,7 @@ toc:
 # markdown render engine.
 markdown:         kramdown
 kramdown:
+<<<<<<< HEAD
   auto_ids:               true
   input:                  GFM
   math_engine:            mathjax
@@ -31,6 +32,16 @@ kramdown:
     guess_lang:           true
 
 syntax_highlighter_style: colorful
+=======
+  input: GFM
+#=======
+# theme: minima
+theme: jekyll-theme-architect
+#remote-theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-feed
+#>>>>>>> 928fa29ef0ec2ef7fb7d52b449b17c5745012210
+>>>>>>> ddd06e6fc8ef6d9eae1e5df2e240836d2d910626
 
 markdown_ext:     markdown,mkdown,mkdn,mkd,md
 
